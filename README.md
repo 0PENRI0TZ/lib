@@ -1096,11 +1096,11 @@ end
 
 local themes = {
     Default = {
-        ["Accent"] = Color3.fromRGB(113, 93, 133),
+        ["Accent"] = Color3.fromRGB(0, 255, 0),
         ["Window Background"] = Color3.fromRGB(30, 30, 30),
-        ["Window Border"] = Color3.fromRGB(0, 255, 0),
+        ["Window Border"] = Color3.fromRGB(45, 45, 45),
         ["Tab Background"] = Color3.fromRGB(20, 20, 20),
-        ["Tab Border"] = Color3.fromRGB(27, 42, 53),
+        ["Tab Border"] = Color3.fromRGB(45, 45, 45),
         ["Tab Toggle Background"] = Color3.fromRGB(28, 28, 28),
         ["Section Background"] = Color3.fromRGB(18, 18, 18),
         ["Section Border"] = Color3.fromRGB(35, 35, 35),
@@ -1112,11 +1112,11 @@ local themes = {
     },
 
     Midnight = {
-        ["Accent"] = Color3.fromRGB(100, 59, 154),
+        ["Accent"] = Color3.fromRGB(0, 255, 0),
         ["Window Background"] = Color3.fromRGB(30, 30, 36),
-        ["Window Border"] = Color3.fromRGB(0, 255, 0),
+        ["Window Border"] = Color3.fromRGB(45, 45, 49),
         ["Tab Background"] = Color3.fromRGB(20, 20, 24),
-        ["Tab Border"] = Color3.fromRGB(27, 42, 53),
+        ["Tab Border"] = Color3.fromRGB(45, 45, 55),
         ["Tab Toggle Background"] = Color3.fromRGB(28, 28, 32),
         ["Section Background"] = Color3.fromRGB(18, 18, 22),
         ["Section Border"] = Color3.fromRGB(35, 35, 45),
